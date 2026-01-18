@@ -1,6 +1,6 @@
 ## Hey there 👋 I'm Mohamed Ouhibi
 
-🔧 **C++ Software Engineer** with 5+ years of experience  
+🔧 **C++ Software Engineer** with 8+ years of experience  
 💡 Passionate about performance, memory optimization, and clean, maintainable code  
 🧠 I review a lot of code, chase down edge cases, and enjoy squeezing out those last bits of efficiency  
 💼 Currently working at **Siemens EDA**
